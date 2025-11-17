@@ -4,7 +4,7 @@ A simple script to convert all SVG files in a folder into Windows-compatible `.i
 
 ## Requirements
 
-Install dependencies with:
+Install dependencies (no external `cairo` or ImageMagick needed) with:
 
 ```bash
 pip install -r requirements.txt
